@@ -35,4 +35,4 @@
 برای شروع، پروژه را از GitHub کلون کنید:
 
 ```bash
-git clone https://github.com/username/maintenance-request-management-system.git
+git clone https://github.com/Tabriz-Petrochemical/MaintenanceRequestManagement.git
